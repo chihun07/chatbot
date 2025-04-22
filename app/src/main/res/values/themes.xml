@@ -1,0 +1,9 @@
+<!-- res/values/themes.xml -->
+<resources>
+    <style name="Theme.Chatbot" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- 커스텀 색상이나 속성이 있다면 여기에 작성 -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+</resources>

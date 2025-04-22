@@ -1,0 +1,4 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="temi_icon">Temi</string>
+</resources>

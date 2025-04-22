@@ -1,0 +1,6 @@
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="white">#FFFFFF</color> <!-- 이건 테마에서 같이 쓰일 수 있으니 함께 추가 -->
+</resources>
